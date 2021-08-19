@@ -1,1 +1,1 @@
-Creating a random new README for this repo. Just learning to use git.
+My assignments for the course E0 334: Deep Learning for Natural Language Processing, at Indian Institute of Science, Bangalore.
